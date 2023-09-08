@@ -8,6 +8,7 @@ At the forefront of the battle against viral hepatitis and to raise awareness in
 
 # Dataset information
 
+The data didn't capture the dynamic progression of hepatitis over time.
 Data Source: [Polaris](https://cdafound.org/polaris/)
 
 # Project Objective
