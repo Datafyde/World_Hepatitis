@@ -1,4 +1,4 @@
-![Screenshot 2023-09-08 130314](https://github.com/Datafyde/World_Hepatitis/assets/135570337/370b04bc-6cd2-4a30-b3f3-fd707fb9fa8d)![Awareness-Banner](https://github.com/Datafyde/World_Hepatitis/assets/135570337/ac98db33-1516-4b06-a77f-3cdf37ffaf21)
+![Awareness-Banner](https://github.com/Datafyde/World_Hepatitis/assets/135570337/1d0b64f7-a3e4-44ad-9fdb-3459c422ec2b)
 
 # Dataset information
 Data Source: [Polaris](https://cdafound.org/polaris/)
@@ -41,10 +41,12 @@ Dimensions with which to break down the analysis were identified. Hence, new tab
 - Summary Table
 - Additional features were created to give more robustness to our analysis
 The data model was designed using the Star Schema where the different dimensions were connected to the Facts table in a one-to-many relationship.
+
 ![Screenshot 2023-09-08 130549](https://github.com/Datafyde/World_Hepatitis/assets/135570337/5e41cf0a-f461-44ad-9de2-cd2379b9073f)
 
 ## Create visualizations and charts:
 Appropriate chart types (e.g., bar charts, line charts, pie charts) were used to represent the metrics and insights. Interactive features such as filters, drill-down options, and tooltips were used for detailed information.
+
 ![Screenshot 2023-09-08 130314](https://github.com/Datafyde/World_Hepatitis/assets/135570337/53eb6268-1011-4c43-9d4e-0cab7dbe6250)
 
 ## Insights
