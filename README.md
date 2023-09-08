@@ -4,20 +4,37 @@
 Data Source: [Polaris](https://cdafound.org/polaris/)
 
 # Project Objective
-The objective of the project was to view the effect of viral hepatitis all over the wprls and how WHO plans to eliminate the disease from the world through proper and timely vaccination.
+The objective of the project was to view the effect of viral hepatitis all over the world and how WHO plans to eliminate the disease from the world through proper and timely vaccination.
 
 ## Understand Business Objectives and User Requirements
+We tried to understand the specific requirements and objectives. We identified key areas we want to focus on and the questions the business needs answers to.
 
 ## Define Business Questions and Metrics
+We defined specific business questions that the dashboard should answer. Example questions include:
+- What is the total population?
+- What percentage of the total population has been treated?
+- What is the population to death ratio?
+- What's the number of prevalent cases?
+- How many countries were represented in this analysis?
 
 ## Define the metrics and Key Performance Indicators (KPIs) that will help answer the business questions. 
+Example metrics include:
+- Death Rate
+- Birth Dose Coverage
+- HBIG Coverage
+- Percentage of Population Treated
 
-## Preprocess the dataset:
+## Preprocess the dataset
+The dataset was cleaned by removing duplicates, correcting any inconsistencies, and ensuring the data was in a suitable format for analysis and visualization.
+
 ### Dataset before cleaning
+![Screenshot 2023-09-08 132230](https://github.com/Datafyde/World_Hepatitis/assets/135570337/623c5ba8-b1cb-4588-9353-6dc444860adf)
+
 ### Dataset after cleaning
+![Screenshot 2023-09-08 131934](https://github.com/Datafyde/World_Hepatitis/assets/135570337/76779e53-a3cf-41da-ab7a-62fdd2b541a8)
 
 ## Data modeling and relationships.
-Dimensions with which to break down the analysis were identified. Hence, new tables for identified dimensions were created. These included:
+Dimensions with which to break down the analysis were identified. Hence, new tables for specified dimensions were created. These included:
 - Indicators Table
 - Countries Table
 - Indicator Summary Table
