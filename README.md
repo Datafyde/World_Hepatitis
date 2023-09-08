@@ -3,8 +3,11 @@
 Interact with the final dashboard here:
 [World Hepatitis Dashboard](http://bit.ly/viral-hepatitis-dashboard)
 
+# Problem Statement
+At the forefront of the battle against viral hepatitis and to raise awareness in commemoration of World Hepatitis Day, Datafied presents a snapshot of Viral Hepatitis showcasing both the triumphs and areas demanding intensified focus
 
 # Dataset information
+
 Data Source: [Polaris](https://cdafound.org/polaris/)
 
 # Project Objective
@@ -56,9 +59,12 @@ Appropriate chart types (e.g., bar charts, line charts, doughnut charts) were us
 ## Insights
 - Countries continue to lag in terms of reaching relative or absolute Impact and Programmatic Targets by 2030 across all variables.
 - More progress has been seen in tackling Hepatitis C. However, 3-dose vaccination coverage (Hepatitis B) has seen the most progress.
+- A marked increase in successful interventions was noted, demonstrating the efficacy of targeted strategies and medical innovations.
+- There is a substantial rise in 3-dose vaccination coverage, underscoring the tangible impact of healthcare initiatives.
 
 ## Recommendation
 - Countries should ramp up health-care programs to meet the aim by 2030.
+-Resources should be properly and strategically allocated to bridge the remaining gaps and expedite progress.
 
 ## Deployment and Documentation
 Once the dashboard was finalized, it was deployed to Power BI service. The project process and deliverables are documented here on GitHub.
