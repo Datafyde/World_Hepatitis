@@ -45,7 +45,7 @@ The data model was designed using the Star Schema where the different dimensions
 ![Screenshot 2023-09-08 130549](https://github.com/Datafyde/World_Hepatitis/assets/135570337/5e41cf0a-f461-44ad-9de2-cd2379b9073f)
 
 ## Create visualizations and charts:
-Appropriate chart types (e.g., bar charts, line charts, pie charts) were used to represent the metrics and insights. Interactive features such as filters, drill-down options, and tooltips were used for detailed information.
+Appropriate chart types (e.g., bar charts, line charts, doughnut charts) were used to represent the metrics and insights. Interactive features such as filters were used for detailed information.
 
 ![Screenshot 2023-09-08 130314](https://github.com/Datafyde/World_Hepatitis/assets/135570337/53eb6268-1011-4c43-9d4e-0cab7dbe6250)
 
