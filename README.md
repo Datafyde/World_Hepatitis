@@ -21,7 +21,7 @@ We defined specific questions that the dashboard should answer. Example question
 - How many countries were represented in this analysis?
 - What is the progress made to eliminate viral hepatitis as against WHO's standard?
 
-## Define the metrics and Key Performance Indicators (KPIs) that will help answer the business questions. 
+## Define the metrics and Key Performance Indicators (KPIs) that will help answer the project questions. 
 Example metrics include:
 - Death Rate
 - Birth Dose Coverage
