@@ -12,13 +12,14 @@ The data used for this project was sourced from The Polaris Observatory, an init
 Data Source: [Polaris](https://cdafound.org/polaris/)
 
 
-## Define Business Questions and Metrics
+## Project Questions
 We defined specific questions that the dashboard should answer. Example questions include:
 - What is the total population?
+- What is the number of prevalent cases?
 - What percentage of the total population has been treated?
 - What is the population to death ratio?
-- What's the number of prevalent cases?
 - How many countries were represented in this analysis?
+- What is the progress made to eliminate viral hepatitis as against WHO's standard?
 
 ## Define the metrics and Key Performance Indicators (KPIs) that will help answer the business questions. 
 Example metrics include:
@@ -26,15 +27,10 @@ Example metrics include:
 - Birth Dose Coverage
 - HBIG Coverage
 - Percentage of Population Treated
+- Prevalence rate
 
 ## Preprocess the dataset
 The dataset was cleaned by removing duplicates, correcting any inconsistencies, and ensuring the data was in a suitable format for analysis and visualization.
-
-### Dataset before cleaning
-![Screenshot 2023-09-08 132230](https://github.com/Datafyde/World_Hepatitis/assets/135570337/623c5ba8-b1cb-4588-9353-6dc444860adf)
-
-### Dataset after cleaning
-![Screenshot 2023-09-08 131934](https://github.com/Datafyde/World_Hepatitis/assets/135570337/76779e53-a3cf-41da-ab7a-62fdd2b541a8)
 
 ## Data modeling and relationships.
 Dimensions with which to break down the analysis were identified. Hence, new tables for specified dimensions were created. These included:
@@ -43,6 +39,7 @@ Dimensions with which to break down the analysis were identified. Hence, new tab
 - Indicator Summary Table
 - Summary Table
 - Additional features were created to give more robustness to our analysis
+
 The data model was designed using the Star Schema where the different dimensions were connected to the Facts table in a one-to-many relationship.
 
 ![Screenshot 2023-09-08 130549](https://github.com/Datafyde/World_Hepatitis/assets/135570337/5e41cf0a-f461-44ad-9de2-cd2379b9073f)
@@ -64,6 +61,9 @@ Appropriate chart types (e.g., bar charts, line charts, doughnut charts) were us
 
 ## Deployment and Documentation
 Once the dashboard was finalized, it was deployed to Power BI service. The project process and deliverables are documented here on GitHub.
+
+## Project Limitation and Future Works.
+The dataset does not capture the dynamic progression of hepatitis over time. this underscores the need for a comprehensive approach that not only assesses the current situation but also tracks the evolving trends. Future work will involve incorporating a time dimension to gain a more nuanced understanding of the trajectory of Hepatitis B and C, enabling government and health organizations to make an informed decision that drives us closer to our goal of eradication.
 
 Interact with the final dashboard here:
 [World Hepatitis Dashboard](http://bit.ly/viral-hepatitis-dashboard)
