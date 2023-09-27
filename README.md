@@ -57,7 +57,7 @@ Appropriate chart types (e.g., bar charts, line charts, doughnut charts) were us
 
 ## Recommendation
 - Countries should ramp up health-care programs to meet the aim by 2030.
--Resources should be properly and strategically allocated to bridge the remaining gaps and expedite progress.
+- Resources should be properly and strategically allocated to bridge the remaining gaps and expedite progress.
 
 ## Deployment and Documentation
 Once the dashboard was finalized, it was deployed to Power BI service. The project process and deliverables are documented here on GitHub.
