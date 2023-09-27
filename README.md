@@ -7,7 +7,7 @@ Interact with the final dashboard here:
 At the forefront of the battle against viral hepatitis and to raise awareness in commemoration of World Hepatitis Day, Datafied presents a snapshot of Viral Hepatitis showcasing both the triumphs and areas demanding intensified focus. 
 
 # Dataset information
-The data used for this project was sourced from The Polaris Observatory, an initiative of the non-profit CDA Foundation, that provides epidemiological data, modeling tools, training, and decision analytics to support eliminating Hepatitis B and C globally by 2030. The observatory offers the most up-to-date estimates for the hepatitis C virus (HCV), hepatitis B virus (HBV) disease burden and economic impact, strategies for eliminating each virus, and financing options. 
+The data used for this project was sourced from The Polaris Observatory, an initiative of the non-profit CDA Foundation, that provides epidemiological data, modeling tools, training, and decision analytics to support eliminating Hepatitis B and C globally by 2030. The observatory offers the most up-to-date estimates for the hepatitis C virus (HCV), and hepatitis B virus (HBV) disease burden and economic impact, as well as strategies for eliminating each virus, and financing options. 
 
 Data Source: [Polaris](https://cdafound.org/polaris/)
 
